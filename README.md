@@ -10,32 +10,33 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" style="background: #fff;" height="40" alt="js logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vue&theme=light" height="40" alt="vue logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vue&theme=light" height="40" alt="vue logo"  />
 </div>
 
 ###
 
 <div align="center">
   <strong><h3>🛠️ Tools & other</h3></strong>
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=light" height="40" alt="ga logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="ga logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=light" height="40" alt="spring logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" height="40" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=maven&theme=light" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=spring&theme=light" height="40" alt="spring logo"  />
 </div>
 
 ###
