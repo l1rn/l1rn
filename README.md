@@ -1,4 +1,4 @@
-<h1 align="center">🍪 l1rn / programmer</h1>
+<h1 align="center">🍪 l1rn | programmer</h1>
 
 ### 
 
@@ -46,5 +46,8 @@
 
 <h2 align="center">Contact me</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Email-ivtaks06@gmail.com-A50E0E?logo=gmail&logoColor=EA4335" /> <a href="https://www.linkedin.com/in/vanya-taksatov-704140290/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" target="_blank" /></a>
+  <a href="mailto:ivtaks06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ivtaks06@gmail.com-A50E0E?logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+ <a href="https://www.linkedin.com/in/vanya-taksatov-704140290/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
 </div>
