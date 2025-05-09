@@ -3,7 +3,7 @@
 ### 
 
 <div align="center">
-  <strong><h3>👅 Languages & other</h3></strong>
+  <strong><h3>Languages & other</h3></strong>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <strong><h3>🛠️ Tools & other</h3></strong>
+  <strong><h3>Tools & other</h3></strong>
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="ga logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
@@ -38,11 +38,11 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=spring&theme=light" height="40" alt="spring logo"  />
 </div>
+<div align="center">
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l1rn&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en">
+| <img src="https://github-readme-stats.vercel.app/api?username=l1rn&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1rn&layout=compact&theme=bear&hide_border=true" /> |
+| ------------- | ------------- |
 </div>
 
 <h2 align="center">Contact me</h2>
